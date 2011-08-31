@@ -1,0 +1,15 @@
+*************************************************
+Procédure pour deodexer les roms officielles MIUI
+*************************************************
+* by niark@MAN! for MIUI France                 *
+*************************************************
+
+1. Copier les roms officielles MIUI à deodexer dans le répertoire Base_ROM
+2. Lancer le script deodex_all.bat
+   (deodex_rom.bat est une sous procédure)
+3. Les roms deodexées sont copiées et signées dans le répertoire Output_ROM
+   Elle ont le nom de la rom d'origine avec "-deodexed" en suffix
+   
+
+Le script tentera de deodexer à la suite les différents ZIP se trouvant dans le
+répertoire Base_ROM
